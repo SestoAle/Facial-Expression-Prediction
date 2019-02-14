@@ -26,13 +26,11 @@ In order to strengthen the results, different techniques have been used:
 After a study of data distributions thorugh *Mean Shift* algorithm, we can conclude that the best method to create a 
 good quality facial expression is the statistics method.
 
-A result example is shown in the figure below:
+A result example is shown in the figure below; the script let the user to emphasize the expression changing an alpha value.:
 
 <p align="center">
-<img  src="/results/happy/happy_face_49_alpha_10.jpg" width="100%" height="100%"/>
+<img  src="https://i.imgur.com/vMC3DJU.png" width="100%" height="100%"/>
 </p>
-
-The script let the user to emphasize the expression changing an alpha value:
 
 ## Installation
 To run the project follow these instructions:
