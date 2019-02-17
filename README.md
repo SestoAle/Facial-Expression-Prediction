@@ -2,7 +2,7 @@
 This project aims to predict different facial expressions given a neutral model, to populate a Neural Network dataset.
 
 For this purpose we made some statistics analysis of a set of facial expressions. After these studies, we achieved to build an
-efficent facial expression predictor that can translate a neutral model to an expressive face.
+efficient facial expression predictor that can translate a neutral model to an expressive face.
 
 The expressions studied are:
 
