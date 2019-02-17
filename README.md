@@ -23,7 +23,7 @@ In order to strengthen the results, different techniques have been used:
 * Support Vector Regression (SVR)
 * Neural Network
 
-After a study of data distributions thorugh *Mean Shift* algorithm, we can conclude that the best method to create a 
+After a study of data distributions through *Mean Shift* algorithm, we can conclude that the best method to create a 
 good quality facial expression is the statistics method.
 
 A result example is shown in the figure below; the script let the user to emphasize the expression changing an alpha value.:
